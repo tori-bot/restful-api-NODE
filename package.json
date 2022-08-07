@@ -18,5 +18,14 @@
   "bugs": {
     "url": "https://github.com/tori-bot/node-express-app/issues"
   },
-  "homepage": "https://github.com/tori-bot/node-express-app#readme"
+  "homepage": "https://github.com/tori-bot/node-express-app#readme",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "config": "^3.3.7",
+    "express": "^3.21.2",
+    "helmet": "^5.1.1",
+    "joi": "^17.6.0",
+    "morgan": "^1.10.0",
+    "npm": "^8.16.0"
+  }
 }
